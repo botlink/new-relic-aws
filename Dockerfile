@@ -1,4 +1,4 @@
-FROM gekkie/newrelic-cloudwatch:latest
+FROM botlink/newrelic-cloudwatch:latest
 
 WORKDIR /usr/local/newrelic_aws_cloudwatch_plugin-latest
 
